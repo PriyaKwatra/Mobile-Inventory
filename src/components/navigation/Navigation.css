@@ -1,0 +1,11 @@
+.cart{
+    position: absolute;
+    right: 100px;
+    float: right;
+  }
+
+  .log{
+    position: absolute;
+    right: 200px;
+    float: right;
+  }  

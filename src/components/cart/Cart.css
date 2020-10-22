@@ -1,0 +1,32 @@
+table{
+    position: relative;
+    left: 10px;
+    right:100px;
+    height: 500px;
+    top:50px;
+    width: 70%;
+  }
+  
+  tr:hover {
+    background-color: lightsteelblue;
+  }
+  
+  tr{
+    font-family: "Times New Roman", Times, serif;
+    font-size: medium;
+  }
+  
+  td{
+    font-size: medium;
+    width:10%
+  }
+  
+  th{
+    font-size: medium;
+  }
+
+ .img{
+     width:100%; height:auto;
+ }
+
+  

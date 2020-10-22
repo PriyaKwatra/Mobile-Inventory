@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Description should render correctly in "debug" mode 1`] = `
+<div
+  className="form"
+>
+  <h1
+    style={
+      Object {
+        "left": "250px",
+        "position": "absolute",
+      }
+    }
+  >
+    Sign in
+  </h1>
+  <div
+    style={
+      Object {
+        "left": "100px",
+        "padding": "20px",
+        "position": "absolute",
+        "top": "100px",
+        "width": "50%",
+      }
+    }
+  >
+    <p>
+      UserName
+      <input
+        class="form-control mb-4"
+        name="userName"
+        onChange={[Function]}
+        placeholder="UserName"
+        required={true}
+        type="userName"
+      />
+    </p>
+    <p>
+      Password
+      <input
+        class="form-control mb-4"
+        name="password"
+        onChange={[Function]}
+        placeholder="Password"
+        required={true}
+        type="password"
+      />
+    </p>
+    <div
+      class="d-flex justify-content-around"
+    />
+    <Button
+      active={false}
+      block="true"
+      color="info"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+      variant="primary"
+    >
+      Sign in
+    </Button>
+  </div>
+</div>
+`;
+
+exports[`Login should render correctly in "debug" mode 1`] = `
+<div
+  className="form"
+>
+  <h1
+    style={
+      Object {
+        "left": "250px",
+        "position": "absolute",
+      }
+    }
+  >
+    Sign in
+  </h1>
+  <div
+    style={
+      Object {
+        "left": "100px",
+        "padding": "20px",
+        "position": "absolute",
+        "top": "100px",
+        "width": "50%",
+      }
+    }
+  >
+    <p>
+      UserName
+      <input
+        class="form-control mb-4"
+        name="userName"
+        onChange={[Function]}
+        placeholder="UserName"
+        required={true}
+        type="userName"
+      />
+    </p>
+    <p>
+      Password
+      <input
+        class="form-control mb-4"
+        name="password"
+        onChange={[Function]}
+        placeholder="Password"
+        required={true}
+        type="password"
+      />
+    </p>
+    <div
+      class="d-flex justify-content-around"
+    />
+    <Button
+      active={false}
+      block="true"
+      color="info"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+      variant="primary"
+    >
+      Sign in
+    </Button>
+  </div>
+</div>
+`;

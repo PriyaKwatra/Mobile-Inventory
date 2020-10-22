@@ -1,0 +1,182 @@
+{
+  "mobiles": [
+      {
+          "DeviceName": "Samsung Galaxy A70s",
+          "Brand": "Samsung",
+          "technology": "GSM / HSPA / LTE",
+          "size": "6.7 inches",
+          "resolution": "1080 x 2400 pixels",
+          "colors": "Prism Crush Red",
+          "internal": "128GB 6GB RAM",
+          "os": "Android 9.0",
+          "price": 28999,
+          "url" :"/images/samsung1.jpg"
+      },
+      {
+          "DeviceName": "Samsung Galaxy M10s",
+          "Brand": "Samsung",
+          "technology": "GSM / HSPA / LTE",
+          "size": "6.4 inches",
+          "resolution": "720 x 1560 pixels",
+          "colors": "Stone Blue",
+          "internal": "32GB 3GB RAM",
+          "os": "Android 9.0",
+          "price": 14990,
+          "url" :"/images/samsung2.jpg"
+
+      },
+      {
+          "DeviceName": "Samsung Galaxy A20s",
+          "Brand": "Samsung",
+          "technology": "GSM / HSPA / LTE",
+          "size": "6.5 inches",
+          "resolution": "720 x 1560 pixels",
+          "colors": "Black",
+          "internal": "32GB 3GB RAM",
+          "os": "Android 9.0",
+          "price": 17699,
+          "url" :"/images/samsung3.jpg"
+      },
+      {
+          "DeviceName": "Samsung Galaxy Fold 5G",
+          "Brand": "Samsung",
+          "size": "7.3 inches",
+          "resolution": "1536 x 2152 pixels",
+          "colors": "Space Silver",
+          "internal": "512GB 12GB RAM",
+          "os": "Android 9.0",
+          "price": 23999,
+          "url" :"/images/samsung4.jpg"
+      },
+      {
+          "DeviceName": "Samsung Galaxy Tab Active Pro",
+          "Brand": "Samsung",
+          "technology": "GSM / HSPA / LTE",
+          "size": "10.1 inches",
+          "resolution": "1920 x 1200 pixels",
+          "colors": "Black",
+          "internal": "64GB 4GB RAM",
+          "os": "Android 9.0",
+          "price": 60000,
+          "url" :"/images/samsung5.webp"
+      },
+      {
+          "DeviceName": "Apple Watch Edition Series 5",
+          "Brand": "Apple",
+          "technology": "GSM / HSPA / LTE",
+          "size": "1.78 inches",
+          "resolution": "448 x 368 pixels",
+          "colors": "Space Black",
+          "internal": "32GB",
+          "os": "watchOS 6.0",
+          "price": 85000,
+          "url" :"/images/apple1.jpg"
+      },
+      {
+          "DeviceName": "Apple Watch Series 5",
+          "Brand": "Apple",
+          "technology": "GSM / HSPA / LTE",
+          "size": "1.78 inches",
+          "resolution": "448 x 368 pixels",
+          "colors": "Space Black",
+          "internal": "32GB",
+          "os": "watchOS 6.0",
+          "price": 75000,
+          "url" :"/images/apple2.jpg"
+      },
+      {
+          "DeviceName": "Apple Watch Series 5 Aluminum",
+          "Brand": "Apple",
+          "technology": "GSM / HSPA / LTE",
+          "size": "1.78 inches",
+          "resolution": "448 x 368 pixels",
+          "colors": "Silver",
+          "internal": "32GB",
+          "os": "watchOS 6.0",
+          "price": 45000,
+          "url" :"/images/apple3.jpg"
+      },
+      {
+          "DeviceName": "Apple iPad 10.2",
+          "Brand": "Apple",
+          "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+          "size": "10.2 inches",
+          "resolution": "1620 x 2160 pixels",
+          "colors": "Silver",
+          "internal": "32GB 3GB RAM",
+          "os": "iPadOS 13.1",
+          "price": 35000,
+          "url" :"/images/apple4.jpg"
+      },
+      {
+          "DeviceName": "Apple iPhone 11",
+          "Brand": "Apple",
+          "technology": "GSM / CDMA / HSPA / EVDO / LTE",
+          "size": "6.1 inches",
+          "resolution": "828 x 1792 pixels",
+          "colors": "Black",
+          "internal": "64GB 4GB RAM",
+          "price": 69900,
+          "url" :"/images/apple5.jpg"
+      },
+      {
+          "DeviceName": "Xiaomi Redmi 8A",
+          "Brand": "Xiaomi",
+          "technology": "GSM / HSPA / LTE",
+          "size": "6.2 inches, 95.9 cm2",
+          "resolution": "720 x 1520 pixels",
+          "colors": "Midnight Black",
+          "internal": "32GB 2GB RAM",
+          "os": "Android 9.0",
+          "price": 96990,
+          "url" :"/images/xi1.webp"
+      },
+      {
+          "DeviceName": "Xiaomi Mi Mix Alpha",
+          "Brand": "Xiaomi",
+          "technology": "GSM / CDMA / HSPA / LTE / 5G",
+          "size": "7.92 inches",
+          "resolution": "2088 x 2250 pixels",
+          "colors": "Black",
+          "internal": "512GB 12GB RAM",
+          "os": "Android 10",
+          "price": 25000,
+          "url" :"/images/xi2.webp"
+      },
+      {
+          "DeviceName": "Xiaomi Mi 9 Pro 5G",
+          "Brand": "Xiaomi",
+          "technology": "GSM / CDMA / HSPA / LTE / 5G",
+          "size": "6.39 inches",
+          "colors": "Dream White",
+          "internal": "128GB 8GB RAM",
+          "os": "Android 10",
+          "price": 56900,
+          "url" :"/images/xi3.webp"
+      },
+      {
+          "DeviceName": "Xiaomi Mi 9 Pro",
+          "Brand": "Xiaomi",
+          "technology": "GSM / CDMA / HSPA / LTE",
+          "size": "6.39 inches",
+          "resolution": "1080 x 2340 pixels",
+          "colors": "Dream White",
+          "internal": "128GB 8GB RAM",
+          "os": "Android 10",
+          "price": 32459,
+          "url" :"/images/xi4.jpg"
+      },
+      {
+          "DeviceName": "Xiaomi Redmi K20 Pro Premium",
+          "Brand": "Xiaomi",
+          "technology": "GSM / HSPA / LTE",
+          "size": "6.39 inches",
+          "resolution": "1080 x 2340 pixels",
+          "colors": "Carbon black",
+          "internal": "128GB 8GB RAM",
+          "os": "Android 10",
+          "price": 46699,
+          "url" :"/images/xi5.jpg"
+      }
+  ]
+}
